@@ -310,10 +310,10 @@
       <HintPath>/Applications/Unity/2020.3.26f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.Unity.Engine">
-      <HintPath>Library/PackageCache/com.ptc.vuforia.engine@e2a2101be7e9-1642756205000/Vuforia/Plugins/Managed/Runtime/Vuforia.Unity.Engine.dll</HintPath>
+      <HintPath>Library/PackageCache/com.ptc.vuforia.engine@384ebfa75652-1642756205000/Vuforia/Plugins/Managed/Runtime/Vuforia.Unity.Engine.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.Unity.Wrapper">
-      <HintPath>Library/PackageCache/com.ptc.vuforia.engine@e2a2101be7e9-1642756205000/Vuforia/Plugins/Managed/Runtime/Vuforia.Unity.Wrapper.dll</HintPath>
+      <HintPath>Library/PackageCache/com.ptc.vuforia.engine@384ebfa75652-1642756205000/Vuforia/Plugins/Managed/Runtime/Vuforia.Unity.Wrapper.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
